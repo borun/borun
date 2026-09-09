@@ -3,8 +3,9 @@
 # Hi there, I'm Md Abdullah Al Farooq 👋
 ### Senior Systems, Network & High-Concurrency Software Engineer
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-borun.github.io-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white)](https://borun.github.io)
 [![Website](https://img.shields.io/badge/Website-cloudalter.com-blue?style=flat-square)](http://www.cloudalter.com)
-[![LinkedIn](https://img.shields.io/badge/Email-borun%40live.com-informational?style=flat-square&logo=microsoftoutlook)](mailto:borun@live.com)
+[![Email](https://img.shields.io/badge/Email-borun%40live.com-informational?style=flat-square&logo=microsoftoutlook)](mailto:borun@live.com)
 [![GitHub followers](https://img.shields.io/github/followers/borun?style=flat-square&logo=github)](https://github.com/borun)
 
 </div>
@@ -19,6 +20,7 @@ Over the years, I've engineered carrier-grade telecom infrastructure at **Improl
 
 - 🔭 **Specialties**: Low-latency networking, telecom protocol stacks (SMPP, SIP, RTP, IAX), async I/O architectures (Java NIO, TypeScript), systems daemons, and specialized web platforms.
 - 💼 Open for high-impact infrastructure, systems architecture, and engineering roles (`hireable`).
+- 🌐 **Portfolio**: **[borun.github.io](https://borun.github.io)**
 - 📫 Contact: **[borun@live.com](mailto:borun@live.com)** | **[www.cloudalter.com](http://www.cloudalter.com)**.
 
 ---
