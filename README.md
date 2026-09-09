@@ -45,7 +45,7 @@ Over the past two decades, I've engineered carrier-grade telecom infrastructure 
 ### 🌟 Featured Highlights
 
 #### 🏥 Medical Education & HealthTech
-* **[meded](https://github.com/borun/meded)** — Dedicated educational platform curating and indexing certified webinars for the **FOGSI-ICOG & ISAR** medical certification courses. Designed for seamless navigation, structured categorization, and fast access for healthcare professionals.
+* **[MedEd Platform (Live Web)](https://borun.github.io/meded/)** ([Source Code](https://github.com/borun/meded)) — Dedicated educational platform curating and indexing certified webinars for the **FOGSI-ICOG & ISAR** medical certification courses. Designed for seamless navigation, structured categorization, and fast access for healthcare professionals.
 
 #### 📡 Telecom, VoIP & Network Systems (Improlabs)
 * **BytePlex (Java NIO)** — High-performance Signal and Media Proxy engine. Engineered **UOT (UDP over TCP)** tunneling, NIO channel selectors, Apple VoIP PushKit / APNs dispatch, and Google FCM wakeups.
