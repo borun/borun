@@ -14,9 +14,9 @@
 
 ### 👨‍💻 About Me
 
-I am a Senior Software Engineer with deep expertise across **systems programming, network protocol engineering (VoIP/RTP/SIP/SMPP), high-throughput proxies, tunneling architectures**, and impactful web platforms.
+I am a Senior Software Engineer with **20+ years of deep expertise** across **systems programming, network protocol engineering (VoIP/RTP/SIP/SMPP), high-throughput proxies, tunneling architectures**, and impactful web platforms.
 
-Over the years, I've engineered carrier-grade telecom infrastructure at **Improlabs** (BytePlex signal/media proxies, UDP-over-TCP tunneling, embedded RTP optimization), built specialized medical knowledge platforms (**MedEd**), and developed scalable cloud, desktop, and macOS daemon architectures at **Cloud Alter Inc**.
+Over the past two decades, I've engineered carrier-grade telecom infrastructure at **Improlabs** (BytePlex signal/media proxies, UDP-over-TCP tunneling, embedded RTP optimization), built specialized medical knowledge platforms (**MedEd**), and developed scalable cloud, desktop, and macOS daemon architectures at **Cloud Alter Inc**.
 
 - 🔭 **Specialties**: Low-latency networking, telecom protocol stacks (SMPP, SIP, RTP, IAX), async I/O architectures (Java NIO, TypeScript), systems daemons, and specialized web platforms.
 - 💼 Open for high-impact infrastructure, systems architecture, and engineering roles (`hireable`).
